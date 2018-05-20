@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Suspend.dir/main.cpp.o  -o Suspend 
